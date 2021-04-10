@@ -1,0 +1,4 @@
+[submodule "patched_speedtest_cli"]
+	path = patched_speedtest_cli
+	url = https://github.com/feng-zhe/speedtest-cli.git
+	branch = patch-1
